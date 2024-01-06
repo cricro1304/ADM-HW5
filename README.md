@@ -12,8 +12,6 @@ In this assignment, the pivotal role of citation networks in mapping the evoluti
 
 The goal is to carry out the following tasks:
 
-### <img src="/images/target.png" width="150" height="150" align="right" />
-
 1. **Data Pre-processing:**
    - Identify the most connected component in the graph.
    - Select the top 10,000 papers with the highest number of citations.
@@ -67,11 +65,10 @@ You can find the dataset used in this [link](https://www.kaggle.com/datasets/mat
 
 
 ## Usage
-- Clone the repo using the command 👉 **git clone https://github.com/marinazanoni/ADM-HW4.git** in a bash script terminal.
-- Open the Jupyter Notebook using your desired IDE and start following the instructions there in order to replicate the results.
+- Clone the repo using the command 👉 **git clone https://github.com/cricro1304/ADM-HW5/tree/main** in a bash script terminal.
+- Open the Jupyter Notebook using your desired IDE and start following the instructions there to replicate the results.
 
 ## Collaborators
-### <img src="/images/robot.png" width="150" height="150" align="right" />
 - Hazem Aboulfotouh (aboulfotouh.2105193@studenti.uniroma1.it)
 - 
 - 
