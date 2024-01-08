@@ -60,8 +60,9 @@ You can find the dataset used in this [link](https://www.kaggle.com/datasets/mat
 ## Repo content
 
 - **main.ipynb:** A comprehensive Jupyter notebook that presents a detailed analysis of the data. It includes a systematic breakdown of the analysis process, the resulting insights, and accompanying explanations to give a better understanding of the findings.
-- **functions.py:** A Python script that includes the implementation of the custom functions that were used in the Jupyter Notebook.
-- **commandline.sh:** A PowerShell script that carries out the Command Line Task.
+- **citation_graph.gml:**  A .gml file containing the citation graph.
+- **collab_graph.gml:**  A .gml file containing the collaboration graph.
+- **commandline_2.sh:** A PowerShell script that carries out the Command Line Task.
 
 
 ## Usage
@@ -70,8 +71,9 @@ You can find the dataset used in this [link](https://www.kaggle.com/datasets/mat
 
 ## Collaborators
 - Hazem Aboulfotouh (aboulfotouh.2105193@studenti.uniroma1.it)
-- 
-- 
-- 
+- Cristiano Perrone (perrone.2128080@studenti.uniroma1.it)
+- Susanna Di Giammarco (digiammarco.1838403@studenti.uniroma1.it)
+- Eldar Gabdulsattarov (egabdulsattarov@gmail.com)
+
 
 
