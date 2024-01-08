@@ -59,10 +59,10 @@ You can find the dataset used in this [link](https://www.kaggle.com/datasets/mat
 
 ## Repo content
 
-- **main.ipynb:** A comprehensive Jupyter notebook that presents a detailed analysis of the data. It includes a systematic breakdown of the analysis process, the resulting insights, and accompanying explanations to give a better understanding of the findings.
+- **main (2).ipynb:** A comprehensive Jupyter notebook that presents a detailed analysis of the data. It includes a systematic breakdown of the analysis process, the resulting insights, and accompanying explanations to give a better understanding of the findings.
 - **citation_graph.gml:**  A .gml file containing the citation graph.
 - **collab_graph.gml:**  A .gml file containing the collaboration graph.
-- **commandline_2.sh:** A PowerShell script that carries out the Command Line Task.
+- **commandline_4.sh:** A PowerShell script that carries out the Command Line Task.
 
 
 ## Usage
